@@ -1,0 +1,9 @@
+ALGORITHM Sum of all non-repeated
+VAR
+    array_1, array_2: ARRAY_OF type[length];;
+    i,j:INTEGER;
+BEGIN
+    FOR i FROM 0 TO lan(array_1) STEP step  DO
+        set_instructions
+    END_FOR
+END
